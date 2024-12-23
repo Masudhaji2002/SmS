@@ -1,0 +1,6 @@
+aiogram==2.25.1
+asyncio
+requests
+db-sqlite3
+smsactivate
+pycryptopay-sdk
